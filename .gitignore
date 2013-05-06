@@ -18,3 +18,7 @@ _cgo_gotypes.go
 _cgo_export.*
 
 _testmain.go
+
+forth/forth
+glob/glob
+null/null
